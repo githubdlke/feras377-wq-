@@ -1,0 +1,1 @@
+Predeterminadamente, {% data variables.product.product_name %} almacena bitácoras de compilación y artefactos durante 90 días y este periodo de retención puede personalizarse. Para obtener más información, consulta la sección "[Límites de uso, facturación y administración](/actions/reference/usage-limits-billing-and-administration#artifact-and-log-retention-policy)".
