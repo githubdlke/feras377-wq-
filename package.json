@@ -45,7 +45,7 @@
     "highlight.js": "11.2.0",
     "highlightjs-graphql": "^1.0.2",
     "hot-shots": "^9.0.0",
-    "html-entities": "^2.3.2",
+    "html-entities": "^2.3.3",
     "imurmurhash": "^0.1.4",
     "js-cookie": "^3.0.1",
     "js-yaml": "^4.1.0",
